@@ -1,7 +1,7 @@
 # planilha_de_gastos_com_vba
 Planilha de controle de gastos utilizando VBA e Excel.
 
-## Iniciando o programa
+## Iniciar o programa
 1. Fazer download do arquivo <b>planilha_de_gastos.xlsm</b>.
 2. Habilitar a edição do arquivo.
 3. Habilitar conteúdo das Macros.
