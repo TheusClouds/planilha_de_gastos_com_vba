@@ -18,7 +18,6 @@ Planilha de controle de gastos utilizando VBA e Excel.
 ## Imagens
 
 <img src="https://i.imgur.com/vE92RPc.png">
-<img src="https://i.imgur.com/K1otQB5.png"> 
-<img src="https://i.imgur.com/Ru1yAyU.png">
+<img src="https://i.imgur.com/LvyRlT9.png"> 
 <img src="https://i.imgur.com/xyhGSmj.png">
 <img src="https://i.imgur.com/fUF1ovt.png">
